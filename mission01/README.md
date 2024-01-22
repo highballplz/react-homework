@@ -1,2 +1,2 @@
-test
-test after changing file name
+1. vite 구성
+2. react
